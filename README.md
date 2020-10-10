@@ -1,4 +1,4 @@
-# __*SnakeWaterGun_Game: Using C Programming*__
+# __*Snake_Water_Gun_Game: Using C Programming*__
 You can play this game with computer with any time you want.
 It's fun try it once!
 ## Description
